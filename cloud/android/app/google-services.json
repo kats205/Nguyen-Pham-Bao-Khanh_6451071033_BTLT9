@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479920566784",
+    "project_id": "lmss-a5b52",
+    "storage_bucket": "lmss-a5b52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479920566784:android:457abc16956f8fa11e1ee5",
+        "android_client_info": {
+          "package_name": "com.example.cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_UFldit5DQ__GWnDYM_m0azGuBXeUxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
